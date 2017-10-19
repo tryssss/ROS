@@ -1,0 +1,8 @@
+prefix=/root/czy/ROS/catkin_ws/install
+
+Name: neginner
+Description: Description of neginner
+Version: 0.0.0
+Cflags: 
+Libs: -L/root/czy/ROS/catkin_ws/install/lib 
+Requires: 
