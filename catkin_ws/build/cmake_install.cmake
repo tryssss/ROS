@@ -118,6 +118,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/root/czy/ROS/catkin_ws/build/gtest/cmake_install.cmake")
   include("/root/czy/ROS/catkin_ws/build/neginner/cmake_install.cmake")
+  include("/root/czy/ROS/catkin_ws/build/smartcar_teleop/cmake_install.cmake")
 
 endif()
 

@@ -1,2 +1,2 @@
-neginner
+neginner:smartcar_teleop
 -DCATKIN_DEVEL_PREFIX=/root/czy/ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/root/czy/ROS/catkin_ws/install -G Unix Makefiles
